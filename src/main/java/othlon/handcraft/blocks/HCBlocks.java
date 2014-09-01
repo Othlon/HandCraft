@@ -1,8 +1,6 @@
 package othlon.handcraft.blocks;
 
-/**
- * Created by jen on 19/07/2014.
- */
+
 
 import cpw.mods.fml.common.registry.GameRegistry;
 import net.minecraft.block.Block;
